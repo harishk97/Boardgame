@@ -2,7 +2,7 @@
 Infra setup
 ===================
 For nexus - docker run -d --name nexus -p 8081:8081 sonatype/nexus3
-For Sonarqube  - docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
+For Sonarqube  - docker run -d --name sonar -p 9000:9000 sonarqube:lts-community (squ_ef8ec7a9595e9563fbc8b6eeac1467db30b90a5c)
 Jenkins running on bare metal
 Kubernetes on Minikube
-Github
+Github - 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
